@@ -19,7 +19,8 @@ Key features include:
 - Format visuals with titles, labels, and tooltips for clarity.
 
 ---
-
+[Link to PowerBI]([https://public.tableau.com/app/profile/jayason.thavathevathasan/viz/Employementdataset/UKEmployementData](https://app.powerbi.com/view?r=eyJrIjoiOGU2ZjhkMTktZTBiNC00ZmM2LTlkMTYtNTc1OWE4NjM0YTFhIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9))
+---
 ## 📊 Visualizations Included
 
 ### 1. Sales & Profit Margin by Month
@@ -78,7 +79,3 @@ Key features include:
 
 ---
 
-
-## 📝 License
-This project is for **educational purposes** only.  
-Dataset used for practice in Power BI visualization.
